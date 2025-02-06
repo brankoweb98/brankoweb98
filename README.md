@@ -18,7 +18,7 @@ Be rest assured that your project
 will be planned and executed with
 the professionalism you will be
 kept updated with progress)
-
+---
 
 - 🔭 Frontend: React.js, Vue.js, Next.js, Nuxt.js, TypeScript,  etc
 - 🌱 Backend :  Node.js/Express.js, Nest.js, Laravel, CodeIgniter, Python, Django, Flask, Ruby on Rails, Java Spring Boot, Java,

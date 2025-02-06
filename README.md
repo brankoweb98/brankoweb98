@@ -5,8 +5,8 @@
    ### Trusted engineer with 10+ years of experience in Web and Mobile industry.
    ### Web3 JavaScript & AI engineer with over 5+ years of experience. 
    ---
-    An organized, collaborative, and
-highly skilled full stack developer
+    
+An organized, collaborative, and highly skilled full stack developer
 with several years of professional
 experience in dynamic and agile
 work environments.

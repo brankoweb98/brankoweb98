@@ -24,7 +24,8 @@ kept updated with progress)
 - 🌱 Backend :  Node.js/Express.js, Nest.js, Laravel, CodeIgniter, Python, Django, Flask, Ruby on Rails, Java Spring Boot, Java,
 JavaFX, Swing, C/C++, QT, Visual C++, C#, VB.NET etc
 - 👯 Mobile : Ios/Android, React Native, Kotlin, Flutter and Hybrid etc
-- 👨‍👩‍👧‍👦Skype ID: live:.cid.3c1769d90963ce57
+- 👨‍👩‍👧‍👦Gmail : brankoweb98@gmail.com
+- Telegram: galuis116
 
 
 ---
